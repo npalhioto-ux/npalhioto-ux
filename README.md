@@ -14,6 +14,7 @@
 ### 👨‍💻 Quem Sou Eu?
 
 Meu nome é Nicolas Stephan Palhioto, estou no primeiro ano do ensino médio no Instituto Federal Catarinense Campus Araquari, estou aprender e me aperfeiçoando em programação e Desenvolvimento Web
+
 ---
 
 ### 🛠️ As Minhas Ferramentas & Tecnologias
