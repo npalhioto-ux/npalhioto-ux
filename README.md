@@ -1,6 +1,6 @@
 <!-- Cabeçalho Estilizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,25,30&height=180&section=header&text=Olá,%20!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,25,30&height=180&section=header&text=Olá %20!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ### 👋 Olá bem-vindo ao meu perfil!!!
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Quem Sou Eu?
 
-Meu nome é Nicolas Stephan Palhioto, estou no primeiro ano do ensino médio no Instituto Federal Catarinense Campus Araquari, estou aprender e me aperfeiçoando em programação e Desenvolvimento Web
+Meu nome é Nicolas Stephan Palhioto, estou no primeiro ano do ensino médio no Instituto Federal Catarinense Campus Araquari, estou aprendendo programação e Desenvolvimento Web
 
 ---
 
