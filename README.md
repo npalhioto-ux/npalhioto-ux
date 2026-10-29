@@ -1,12 +1,11 @@
 <!-- Cabeçalho Estilizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,25,30&height=180&section=header&text=Olá,%20Mundo!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,25,30&height=180&section=header&text=Olá,%20!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ### 👋 Olá bem-vindo ao meu perfil!!!
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-A_aprender...-blue?style=for-the-badge&logo=appveyor" />
   <img src="https://img.shields.io/badge/Ano-1º_Ano_Ensino_Médio-green?style=for-the-badge&logo=readthedocs" />
 </p>
 
