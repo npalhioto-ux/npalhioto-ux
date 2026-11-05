@@ -1,5 +1,5 @@
 <!-- Cabeçalho Estilizado -->
-![Header](./your-header-image-name.png)
+![Header](./your-header-image-npalhioto-ux.png)
 
 ### 👋 Olá bem-vindo ao meu perfil!!!
 
