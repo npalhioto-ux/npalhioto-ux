@@ -32,10 +32,5 @@ Aqui estão as principais linguagens e tecnologias com que estou aprendendo e ut
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=npalhioto-ux&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Banner](https://git-banner-backend.onrender.com/banner/npalhioto-ux?type=stats&format=twitter&theme=dark)](https://github.com/npalhioto-ux)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=npalhioto-ux&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
