@@ -1,5 +1,6 @@
 <!-- Cabeçalho Estilizado -->
-![Header](./your-header-image-npalhioto-ux.png)
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,20,25,30&height=180&section=header&text=Olá%20!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" /> 
+</p>
 
 ### 👋 Olá bem-vindo ao meu perfil!!!
 
