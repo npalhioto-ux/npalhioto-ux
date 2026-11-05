@@ -32,4 +32,5 @@ Aqui estão as principais linguagens e tecnologias com que estou aprendendo e ut
 ### 📊 Estatísticas do GitHub
 
 [![GitHub Banner](https://git-banner-backend.onrender.com/banner/npalhioto-ux?type=stats&format=linkedin&theme=dark)](https://github.com/npalhioto-ux)
+<img src="file:///home/ifc/Downloads/octocat-1793880461244.png" /> 
 
